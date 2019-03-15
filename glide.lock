@@ -93,6 +93,6 @@ imports:
   - unicode/norm
 - name: gopkg.in/yaml.v2
   version: a5b47d31c556af34a302ce5d659e6fea44d90de0
-- name: xi2.org/x/xz
-  version: 19aeb13c4e7cb6bd3188dfede73840f33455425a
+- name: github.com/creachadair/xz
+  version: 48954b6210f8d154cb5f8484d3a3e1f83489309e
 testImports: []

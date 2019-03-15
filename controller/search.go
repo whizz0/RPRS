@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 	"github.com/labstack/echo"
-	"github.com/radepal/go-yum"
+	"github.com/macizarc-pearson/go-yum"
 	"net/http"
 	"os"
 
