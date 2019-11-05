@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
-	"github.com/macizarc-pearson/RPRS/controller"
+	"github.com/whizz0/RPRS/controller"
 	"github.com/spf13/viper"
 	"net/http"
 )

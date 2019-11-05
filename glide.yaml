@@ -1,4 +1,4 @@
-package: github.com/macizarc-pearson/RPRS
+package: github.com/whizz0/RPRS
 import:
 - package: github.com/labstack/echo
   version: ^3.0.0
