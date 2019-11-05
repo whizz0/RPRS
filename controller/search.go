@@ -4,10 +4,9 @@ import (
 	"errors"
 	"fmt"
 	"github.com/labstack/echo"
-	"github.com/macizarc-pearson/go-yum"
+	"github.com/whizz0/go-yum"
 	"net/http"
 	"os"
-
 	"github.com/spf13/viper"
 )
 

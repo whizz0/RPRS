@@ -13,4 +13,4 @@ import:
 - package: github.com/cavaliercoder/grab
 - package: code.cloudfoundry.org/bytefmt
 - package: github.com/creachadair/xz
-- package: github.com/radepal/go-yum
+- package: github.com/whizz0/go-yum
